@@ -1,0 +1,90 @@
+.hole {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%; 
+	background-color: black;
+}
+
+body {
+  background: url(/grass.jpg) no-repeat center center fixed; 
+  /*-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;*/
+  background-size: cover;
+}
+
+.btn{
+	margin-left: 400px;
+}
+
+#moleBox{
+	margin-left: 300px; 
+}
+
+#box1 {
+	float: left;
+}
+
+#box2 {
+	float: left;
+}
+
+#box3 {
+	float: left;
+}
+
+#box4 {
+	float: left;
+}
+
+#box5 {
+	float: left;
+	clear: both;
+}
+
+#box6 {
+	float: left;
+}
+
+#box7 {
+	float: left;
+}
+
+#box8 {
+	float: left;
+}
+
+#box9 {
+	float: left;
+	clear: both;
+}
+
+#box10 {
+	float: left;
+}
+
+#box11 {
+	float: left;
+}
+
+#box12 {
+	float: left;
+}
+
+#box13 {
+	float: left;
+	clear: both;
+}
+
+#box14 {
+	float: left;
+}
+
+#box15 {
+	float: left;
+}
+
+#box16 {
+	float: left;
+}
